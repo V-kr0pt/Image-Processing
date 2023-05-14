@@ -1,0 +1,28 @@
+-> Variational Auto-Encoders for cardiac shape modeling : Loïc Le Folgoc
+
+-> U-Net for cardiac MRI segmentation : Loïc Le Folgoc
+
+-> 1 (12. Image Inpainting Using the Latent Space of StyleGAN): Nicolas Cherel, Alasdair Newson
+
+-> 2 (13. SINgan with patches : a Patch-based version of Single Image Generation) :  Alasdair Newson, Nicolas Cherel
+
+-> 3 (10.  Hyperspectral image super-resolution) : Christophe Kervazo
+
+-> 4 (9. Hyperspectral unmixing through auto-encoders)
+
+-> 5 (14. A deep learning-based algorithm for film grain synthesis)
+
+----
+Projets: 4, 9, 10, 11, 12, 13, 14 
+Ordre: Ossauma - Benatti - Thalis - Vitor
+
+Points:
+4: 3 + 0 + 3 + 0 = 6
+9: 0 + 2 + 0 + 2 = 4
+10: 0 + 3 + 4 + 3 = 10 
+11: 0 + 4 + 2 + 0 = 6
+12: 4 + 5 + 5 + 5 = 29
+13: 5 + 0 + 1 + 4  = 10
+14: 2 + 0 + 0 + 1 = 3
+
+
