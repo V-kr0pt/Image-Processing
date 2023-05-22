@@ -1,0 +1,9 @@
+Explicar o artigo em 3 minutos
+Os outros 7 minutos explicando os passos que fizemos.
+------
+
+1. Se ver todas as semanas
+2. Tem uma segunda feriado então sexta feira 12:30
+3. Entender o artigo e tentar implementar o possível
+4. pickle 
+
